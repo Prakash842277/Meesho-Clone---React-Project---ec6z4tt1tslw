@@ -6,8 +6,8 @@ import "../Address/Address.css";
 import { useStateContext } from "../context/Context";
 
 let data = [
-    "Manish Kumar",
-    8830668764,
+    "Prakash Chandra",
+    7068992212,
     "W-38, D3",
     "Chinchwad",
     846001,

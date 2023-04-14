@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "../payment/payment.css"
 
-let data = ["1234 5678 9101 2345", "12/25", "123", "Manish Kumar"];
+let data = ["1234 5678 9101 2345", "12/25", "123", "Prakash Chandra"];
 function Payment(){
     let [inp, setInp] = useState(data);
     let [color, setColor] = useState("#06A759");
